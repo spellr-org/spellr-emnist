@@ -1,0 +1,6 @@
+eminst-byclass-mapping.txt
+emnist-byclass-train.csv
+emnist-byclass-test.csv
+model_tf/*
+tfjs_model/*
+model.onxx
